@@ -1,0 +1,348 @@
+    
+
+    .menu_container{
+        width: 100%;
+        text-align: right;
+        }
+    .menu_container span{
+        padding:27px 50px 0px 0px;
+        color: black;
+    }
+    .layout_works{
+
+        Width :57px;
+        Height:43px;
+            } 
+    .layout_works a{
+        text-decoration: none;
+        color: black;
+        
+    }
+
+    .layout_blog{
+
+            Width :106px;
+            Height:43px;
+           
+            } 
+            .layout_blog a{
+                text-decoration: none;
+                color: black;
+            }
+
+    .layout_contant{
+
+                Width :71px;
+                Height:43px;
+            } 
+
+    .typography{
+        font-family: Helvetica, sans-serif;
+        font-weight:500px;
+        font-size:20px;
+        font-weight: bold;
+        line-height: 29.38px;
+        align-self:Right;
+            }
+                            /* person information */
+
+
+
+    /* Here paragraph styling */
+    .layout_p_i{
+        font-family: Helvetica, sans-serif;
+        font-size: 44px;
+        font-weight:700;
+        word-spacing: 5px;
+        letter-spacing:0.3px;
+        line-height: 60px;
+        height: 105px;
+        width: 506px;
+        color: black;
+        }
+    .layout_p_i_detail{
+        
+        width:496px;
+        height: 66px;
+        text-align: justify;
+        line-height: 23.5px;
+        font-family: Helvetica, sans-serif;
+        font-size: 16px;
+        font-weight: 400px;
+        color: black;
+
+    }
+    .person_info button{
+        width: 208px;
+        height: 47px;
+        border: 0px transparent solid;
+        border-radius: 2px;
+        background-color: #ff6464;
+        line-height: 29.38px;
+        font-weight: 500;
+        color: #ffff;
+        font-family: Helvetica, sans-serif;
+    }
+    
+    .container_person_info div{
+        display: inline-block;
+        padding: 140px 40px 40px 450px;
+        height: 402px;
+        
+    
+        
+    }
+    .person_img img{
+    width: 243px;
+        height: 243px;
+        border-radius: 50%;
+    
+        }
+        
+        .container_person_info{
+        width: 100%;
+        }
+    .cont_rec_post{
+        
+        display: inline-block;
+        background-color: #EDF7FA;
+        width: 100%;
+        height: 396px;
+        top: 595px;
+        align-content:center ;
+        }
+        .recent_post{
+            padding-left: 20px;
+        
+        }
+    .font_rec{
+        display: inline-block;
+    
+        font-size: 22px;
+        line-height: 60px;
+        font-weight: 400;
+        color: black;
+        
+        
+    }
+    .font_v{
+        color: #00A8CC;
+        font-family: Helvetica, sans-serif;
+        Size:16px;
+        line-height: 23.5px;
+        font-weight: 400;
+        
+    
+    }
+    .recent_post{
+        
+        width: 824px;
+        margin-left: 448px;
+        
+    }
+    .recent_post .font_v{
+    position: center right;
+    margin-left:650px;
+    }
+    .posts{
+        
+    
+        padding-left: 450px;
+        padding-top: 2px;
+        
+    }
+    .post_1,.post_2 {
+        display: inline-block;
+        width: 418px;
+        border-radius:4px;
+        
+        text-align: justify;
+        Height:295px;
+        font-family: Helvetica, sans-serif;
+        color: #21243D;
+        background-color: #FFFFFF ;
+    }
+    .post_1{
+    left:148px;
+    border-radius:4px;
+    }
+    .post_2{
+        
+    left:586px;
+        border-radius:4px;
+    }
+    .post_title{
+        Width:374px;
+    Height:85px;
+    padding-left: 14px;
+    padding-top: 4px;
+    font-weight: 700;
+    font-size: 26px;
+    line-height:38.19px;
+    }
+    /* .post_title span{
+        font-family: Helvetica, sans-serif;
+        width:374px;
+    height: 34px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.44px;
+    top: 790;
+    padding-left: 14px;
+
+    } */
+
+    .post_1 span{
+
+        font-family: Helvetica, sans-serif;
+        width:374px;
+    height: 34px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.44px;
+    padding-left: 14px;
+    }
+    .post_detail{
+        width: 368px;
+        height: 117px;
+        padding-left: 14px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 23.5px;
+        color: #21243D;
+    }
+    .post_2 span{
+        font-family: Helvetica, sans-serif;
+        width:374px;
+    height: 34px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.44px;
+    padding-left: 14px;
+    }
+    .fe_works{
+        width: 157px;
+        height: 60px;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 60px;
+        
+        font-family: Helvetica, sans-serif;
+        padding-left: 450px;
+    }
+    .fe_works_img img{
+        width: 246px;
+        height: 200px;
+        border-radius: 6px;
+        
+    }
+    .con_fe_works .fe_works_img, .fe_works_detail{
+        display: inline-block;
+    }
+    .con_fe_works{
+        border-bottom: 1px solid #E0E0E0;
+        width: 858px;
+        margin-left: 448px;
+    }
+    .fe_works_detail{
+        padding-left: 14px;
+    }
+    .fe_wo_title{
+        width: auto;
+        height: 44px;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 44.06px;
+        color: #21243D;
+        font-family: Helvetica, sans-serif;
+    }
+    .fe_wo_title p{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 44.06px;
+        color: #21243D;
+    }
+
+    .fe_date p{
+        display: inline-block;
+        width: 62px;
+        height: 25px;
+        font-size: 18px;
+        font-weight: 900;
+        line-height: 26px;
+        border-radius: 16PX;
+        background-color: #142850;
+        color: #FFFF;
+        text-align: center;
+    
+    }
+    .fe_tit p{
+        display: inline-block;
+        width: 378px;
+        height: 34px;
+        font-family: Helvetica, sans-serif;
+        text-align: left;
+        color:#8695A4;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 29.38px;
+        padding-left: 14px;
+    }
+    .fe_detail{
+        width: 590px;
+        height: 93px;
+        font-family: Helvetica, sans-serif;
+        font-size:16px;
+        font-weight:400;
+        line-height: 23.5px;
+        color: #21243D;
+        text-align:left;
+    
+    }
+    footer{
+        width: 100%;
+        height: 182px;
+        
+        
+    }
+    footer div{
+        margin: 40px 40px 0px 40px;
+
+    }
+    .icons{
+        width:auto;
+        margin-left: 759px;
+    
+        padding: 30px 20px 0px 20px;
+        
+        
+    }
+
+    .icons img{
+        height: 30px;
+        width: 30px;
+        border-radius: 8px;
+        
+        
+    }
+    .copyrights p{
+        display: inline-block;
+        font-family: Helvetica, sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        text-align: center;
+        line-height: 20.56px;
+        color: #21243D;
+
+    }
+    .copyrights{
+        width: 222px;
+        height: auto;
+        margin: 0px 0px 54px 765px ;
+    }
+    
+        
+    
+
+        
+    
